@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNPC_library.a CMakeFiles/NPC_library.dir/Bear.cpp.o CMakeFiles/NPC_library.dir/Elf.cpp.o CMakeFiles/NPC_library.dir/Robber.cpp.o CMakeFiles/NPC_library.dir/NPC.cpp.o CMakeFiles/NPC_library.dir/Factory.cpp.o CMakeFiles/NPC_library.dir/ObserverFile.cpp.o CMakeFiles/NPC_library.dir/ObserverConsole.cpp.o CMakeFiles/NPC_library.dir/Visitor.cpp.o CMakeFiles/NPC_library.dir/World.cpp.o
+/usr/bin/ranlib libNPC_library.a
